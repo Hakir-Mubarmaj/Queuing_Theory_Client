@@ -1,10 +1,16 @@
 # queuing_theory_client
 
-A new Flutter project.
+This project basically a frontend of my queuing theory server site. Backend has hosted already. It's basic work is to solve the basic maths of queuing theory. Four model has been implemented.
+
+For now on the process is not animated, Only results will be showed.
+
+## How To Run
+
+Download this project run flutter pub get and then run the app on mobile device or emulator.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point of queuing theory visualization application.
 
 A few resources to get you started if this is your first Flutter project:
 
